@@ -1,0 +1,1 @@
+The Konark model and its textures are user-supplied assets. This project does not grant any additional rights to the model or textures. Ensure you have the necessary rights/permissions before publishing the experience publicly.
